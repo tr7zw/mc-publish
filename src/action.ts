@@ -20,9 +20,9 @@ import { FailMode } from "@/utils/errors/fail-mode";
 import { UploadedFile } from "@/platforms/uploaded-file";
 
 /**
- * Your one-stop GitHub Action for seamless Minecraft project publication across various platforms.
+ * Fork of MCPublish action.
  */
-export const ACTION_NAME = "mc-publish";
+export const ACTION_NAME = "tr-publish";
 
 /**
  * The input parameters for the action.

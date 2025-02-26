@@ -1,8 +1,8 @@
 # TODO: Remove deprecated inputs in v4.0
 
-name: mc-publish
-description: Your one-stop GitHub Action for seamless Minecraft project publication across various platforms.
-author: Kir-Antipov
+name: tr-publish
+description: Fork of MCPublish action.
+author: Kir-Antipov/tr7zw
 branding:
   color: purple
   icon: box

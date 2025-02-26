@@ -8,10 +8,9 @@
 # action.template.yml file instead. This will ensure that your changes are #
 #              properly reflected in the auto-generated file.              #
 # ######################################################################## #
-name: mc-publish
-description: Your one-stop GitHub Action for seamless Minecraft project
-  publication across various platforms.
-author: Kir-Antipov
+name: tr-publish
+description: Fork of MCPublish action.
+author: Kir-Antipov/tr7zw
 branding:
   color: purple
   icon: box
